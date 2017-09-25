@@ -1,0 +1,7 @@
+<project>
+  <node name="node_url" 
+    description="test URL resource" tags="url_resource" 
+    osFamily="unix" osName="Linux"
+    hostname="orion"  username="alexh" 
+    />
+</project>
